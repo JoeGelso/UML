@@ -1,1 +1,1 @@
-This project was completed for Umass lowell's computing 3 course. This console application is a little predator vs prey simulation. 
+This project was completed for Umass lowell's computing 3 course completed in Fall of 2018. This console application is a little predator vs prey simulation. Note that this project only runs in windows due to the header file using windows.h. This project was for practice with polymorphism in C++ and virtual functions.
