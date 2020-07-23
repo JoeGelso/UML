@@ -1,0 +1,1 @@
+This project was completed for Umass lowell's computing 3 course. This console application is a little predator vs prey simulation. 
