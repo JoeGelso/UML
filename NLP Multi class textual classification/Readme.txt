@@ -1,0 +1,1 @@
+Umass Lowell's Natural Language Processing textual classification homework. Much of the file is pre-written for students, with my additions annotated in the comments of the notebook. 
